@@ -1,0 +1,28 @@
+{
+  "name": "hangmannodejs",
+  "version": "1.0.0",
+  "description": "A hangman game on the command line",
+  "main": "CLI.js",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "random-word": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazi14/hangmannodejs.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "taimoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazi14/hangmannodejs/issues"
+  },
+
+  "homepage": "https://github.com/jazi14/hangmannodejs#readme"
+}
